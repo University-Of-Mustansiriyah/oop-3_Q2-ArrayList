@@ -1,0 +1,7 @@
+C:\Users\PC\source\repos\oop 3_Q2) ArrayList\oop 3_Q2) ArrayList\bin\Debug\oop 3_Q2) ArrayList.exe.config
+C:\Users\PC\source\repos\oop 3_Q2) ArrayList\oop 3_Q2) ArrayList\bin\Debug\oop 3_Q2) ArrayList.exe
+C:\Users\PC\source\repos\oop 3_Q2) ArrayList\oop 3_Q2) ArrayList\bin\Debug\oop 3_Q2) ArrayList.pdb
+C:\Users\PC\source\repos\oop 3_Q2) ArrayList\oop 3_Q2) ArrayList\obj\Debug\oop 3_Q2) ArrayList.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\oop 3_Q2) ArrayList\oop 3_Q2) ArrayList\obj\Debug\oop 3_Q2) ArrayList.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\oop 3_Q2) ArrayList\oop 3_Q2) ArrayList\obj\Debug\oop 3_Q2) ArrayList.exe
+C:\Users\PC\source\repos\oop 3_Q2) ArrayList\oop 3_Q2) ArrayList\obj\Debug\oop 3_Q2) ArrayList.pdb
